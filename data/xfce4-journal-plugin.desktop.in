@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Journal
+Comment=Add dated journal entries to one or more markdown journals from the panel
+Icon=xfce4-journal-plugin
+X-XFCE-Module=xfce4-journal-plugin
+X-XFCE-Internal=FALSE
+X-XFCE-Unique=false
+X-XFCE-API=2.0
